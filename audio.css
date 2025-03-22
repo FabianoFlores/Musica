@@ -1,17 +1,17 @@
 body{
     color:white;
-    background-color: black;
+    background-image: image-set(url(Hogwarts.jpg));
+    text-align: center;
+    
 
 }
 
 h2{
     color: red;
-    padding: 16px;
 }
 
 h3{
     color: darkblue;
-    padding: 16px;
 }
 
 main h2{
